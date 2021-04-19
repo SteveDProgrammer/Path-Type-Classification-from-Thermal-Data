@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\rreka\Desktop\Path_Tracking\Path_Tracking\Source.cpp(18,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rreka\Desktop\Path_Tracking\Path_Tracking\Source.cpp(49,38): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Path_Tracking.vcxproj -> C:\Users\rreka\Desktop\Path_Tracking\x64\Debug\Path_Tracking.exe
